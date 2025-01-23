@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m currently studying in my sophomore year in College pursuing a degree in Engineering 
+I am currently a sophomore in college pursuing a degree in Computer Science Engineering.
 
 
 ## 🌐 Socials:
